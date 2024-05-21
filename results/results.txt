@@ -1,0 +1,22 @@
+RESULTADOS COM AMOSTRA DE 100.000 DADOS
+
+# Regressão Múltipla
+    alfa: 0.001
+    betas: [0.74198722 0.08081303 0.21217133 0.29807349]
+    iterações: 100
+    RMSE: 110.96414357291003
+
+# Decision Tree
+    RMSE: 244.05532159737882
+
+# KNN 
+    RMSE: 181.335726209702
+
+# Gradient Boosting
+    RMSE: 166.94684875118074
+
+# Regressão Simples:
+    RMSE: 38.19407155155679
+
+# Random Forest
+    RMSE: 168.4606740874558
